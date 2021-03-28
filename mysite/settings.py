@@ -25,7 +25,7 @@ SECRET_KEY = 'kt@7h&)c5#bfitkyb4_os+r6udt*m3e+k$5ll%j244)!lk2ra!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'pagemeister.pythonanywhere.com']
 
 
 # Application definition
