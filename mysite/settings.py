@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'kt@7h&)c5#bfitkyb4_os+r6udt*m3e+k$5ll%j244)!lk2ra!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 <<<<<<< Updated upstream
 ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'pagemeister.pythonanywhere.com']
